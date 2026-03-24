@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: BioAngles: Joint Angle Extractor from Video
+version: 1.1.0
+date-released: 2026-03-24
+authors:
+  - family-names: Cao Di Marco
+    given-names: Gabriel
+    affiliation: CONICET, Buenos Aires
+  - family-names: Cao Di Marco
+    given-names: Daniela
+    affiliation: CONICET, Buenos Aires
+license: MIT
+repository-code: https://github.com/gabriel-cao/bioangles
+keywords:
+  - biomechanics
+  - joint angles
+  - mediapipe
+  - pose estimation
+  - motion analysis
+  - AI locomotion
