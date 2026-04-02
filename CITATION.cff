@@ -1,32 +1,14 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: BioAngles
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
+message: "If you use this software, please cite it as below."
 authors:
-  - given-names: Gabriel
-    family-names: Cao Di Marco
-    email: drgabrielcao@gmail.com
-    affiliation: CONICET
-    orcid: 'https://orcid.org/0000-0002-8546-9638'
-repository-code: 'https://github.com/gabriel-cao/bioangles/'
-url: 'https://github.com/gabriel-cao/bioangles/'
-abstract: >+
-  BioAngles extracts frame-by-frame joint angles from video
-  using MediaPipe Tasks PoseLandmarker. Outputs CSV with
-  angles per frame and JSON with statistics, including
-  evaluation against CDC reference ranges (women 20-44).
-
-keywords:
-  - joint angles
-  - mediapipe
-  - pose estimation
-  - biomechanics
-  - motion analysis
-license: MIT
-version: '1.1'
-date-released: '2026-02-24'
+- family-names: "Gabriel"
+  given-names: "Cao Di Marco"
+  orcid: "https://orcid.org/0000-0002-8546-9638"
+- family-names: "Daniela"
+  given-names: "Di Marco"
+  orcid: ""
+title: "BioAngles"
+version: "1.1.0"
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/gabriel-cao/bioangles"
