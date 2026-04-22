@@ -4,7 +4,7 @@
 
 BioAngles extracts frame-by-frame joint angles from video using MediaPipe Tasks PoseLandmarker. Outputs CSV with angles per frame and JSON with statistics, including evaluation against CDC reference ranges (women 20-44).
 
-Authors: Gabriel Cao Di Marco and Daniela Cao Di Marco — CONICET, Buenos Aires, 2026.
+Authors: Gabriel Cao Di Marco and Daniela Cao Di Marco — CONICET, Buenos Aires, 2026. DOI: 10.5281/zenodo.19209295
 
 ## Features
 
